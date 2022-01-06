@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "http-bones": "^0.0.8"
+  },
+  "name": "rest-bones",
+  "version": "0.0.1",
+  "description": "A bare-bones but extensible REST API Framework that can serve functions, files, folders and scripts. Depends on http-bones.",
+  "main": "src/rest-bones.js",
+  "scripts": {
+    "test": "node src/run-tests.js"
+  },
+  "author": "Dan McKinnon",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-mckinnon/rest-bones.git"
+  },
+  "keywords": [
+    "http",
+    "REST",
+    "API",
+    "backend",
+    "NodeJS"
+  ],
+  "bugs": {
+    "url": "https://github.com/dan-mckinnon/rest-bones/issues"
+  },
+  "homepage": "https://github.com/dan-mckinnon/rest-bones#readme"
+}
