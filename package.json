@@ -3,7 +3,7 @@
     "http-bones": "^0.0.8"
   },
   "name": "rest-bones",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A bare-bones but extensible REST API Framework that can serve functions, files, folders and scripts. Depends on http-bones.",
   "main": "src/rest-bones.js",
   "scripts": {

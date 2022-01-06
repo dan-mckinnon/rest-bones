@@ -1,12 +1,12 @@
 {
   "name": "rest-bones",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "rest-bones",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "license": "ISC",
       "dependencies": {
         "http-bones": "^0.0.8"
